@@ -16,20 +16,20 @@ const Header = () => {
               <Image
                 src="/static/images/avatar.webp"
                 alt=""
-                width={45}
-                height={45}
+                width={152}
+                height={36}
                 loading="lazy"
                 decoding="async"
-                className="rounded-full"
+                // className="rounded-full"
               />
             </div>
-            {typeof siteMetadata.headerTitle === 'string' ? (
+            {/* {typeof siteMetadata.headerTitle === 'string' ? (
               <div className="hidden text-2xl font-semibold sm:block">
                 {siteMetadata.headerTitle}
               </div>
             ) : (
               siteMetadata.headerTitle
-            )}
+            )} */}
           </div>
         </Link>
       </div>

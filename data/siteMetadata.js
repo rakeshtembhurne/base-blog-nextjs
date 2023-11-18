@@ -1,23 +1,23 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: '',
+  title: 'BAUDDH',
   author: 'Rakesh Tembhurne',
-  headerTitle: '',
+  headerTitle: 'BAUDDH',
   description: '',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://google.com',
+  siteUrl: 'https://bauddh.com',
   siteRepo: 'https://github.com/rakeshtembhurne/base-blog-nextjs',
   siteLogo: '/static/images/logo.webp',
   // socialBanner: '/static/images/twitter-card.webp',
   socialBanner: '/static/images/logo.webp',
   // mastodon: 'https://mastodon.social/@mastodonuser',
   email: '',
-  github: 'https://github.com/rakeshtembhurne',
-  twitter: 'https://twitter.com/tembhurnerakesh',
-  facebook: 'https://facebook.com/tembhurnerakesh',
-  youtube: 'https://www.youtube.com/@TechBytesByRocky',
-  linkedin: 'https://www.linkedin.com/in/rakeshtembhurne',
+  // github: 'https://github.com/rakeshtembhurne',
+  // twitter: 'https://twitter.com/tembhurnerakesh',
+  // facebook: 'https://facebook.com/tembhurnerakesh',
+  // youtube: 'https://www.youtube.com/@TechBytesByRocky',
+  // linkedin: 'https://www.linkedin.com/in/rakeshtembhurne',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
